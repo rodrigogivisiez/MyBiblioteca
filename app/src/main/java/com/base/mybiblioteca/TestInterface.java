@@ -7,4 +7,7 @@ public interface TestInterface {
     public void metodo3();
     TestInterface metodo4();
 
+
+    //adfadfs
+
 }
